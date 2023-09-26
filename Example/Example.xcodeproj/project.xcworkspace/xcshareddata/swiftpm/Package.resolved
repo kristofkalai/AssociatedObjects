@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "associatedobjects",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/AssociatedObjects",
+      "state" : {
+        "revision" : "dcbf340563d62665f42baee888d5d575a4d142f0",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
